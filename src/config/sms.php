@@ -1,5 +1,6 @@
 <?php
 return [
+    //阿里云 获取 相关的 id
     'access_key_id' => env('ALI_ACCESS_KEY_ID'),
 
     'access_key_secret' => env('ALI_ACCESS_KEY_SECRET'),
