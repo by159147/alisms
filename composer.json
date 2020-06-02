@@ -1,0 +1,20 @@
+{
+    "name": "faed/alisms",
+    "description": "发送阿里云短信服务",
+    "license": "MIT",
+    "minimum-stability": "dev",
+    "authors": [
+        {
+            "name": "faed",
+            "email": "327399770@qq.com"
+        }
+    ],
+    "require": {
+
+    },
+    "autoload": {
+        "psr-4": {
+            "Faed\\Alisms\\": "src/"
+        }
+    }
+}
